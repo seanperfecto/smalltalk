@@ -1,6 +1,6 @@
 # Small Talk
 
-[Demo Page](https://seanperfecto.github.io/applandingpage/)
+[Demo Page](https://small-talk-us.herokuapp.com/)
 
 Splash screen              |  Home screen
 :-------------------------:|:-------------------------:
